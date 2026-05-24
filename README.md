@@ -15,7 +15,7 @@ Automatizar métricas e indicadores a partir de uma base de dados de operações
 ## Fórmulas e Recursos Utilizados
 - CONT.SES
 - SOMASES
-- MÉDIASES
+- MÉDIASES (AVERAGEIFS)
 - SE
 - Filtros
 - Referências absolutas e relativas
